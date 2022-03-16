@@ -11,7 +11,9 @@ Las técnicas de aprendizaje profundo (deep learning) están adquiriendo crecien
 ### Sesión 01 – Fundamentos de aprendizaje profundo
 
 a. ¿Qué es el aprendizaje atomático?
+
 b. ¿Cómo funcionan las redes neurales?
+
 c. ¿Qué problemas podemos encontrar al utilizarlas?
 
 
