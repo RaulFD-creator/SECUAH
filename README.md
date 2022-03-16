@@ -19,16 +19,23 @@ c. ¿Qué problemas podemos encontrar al utilizarlas?
 
 ### Sesión 02 – Aplicación de arquitecturas avanzadas en biomedicina
 
-¿Por qué usar arquitecturas avanzadas?
-¿Qué son las redes recurrentes (RNN)?
-¿Qué son las redes convolucionales (CNN)?
-Aplicaciones en biomedicina: RNN para la creación de bibliotecas de moléculas candidatas contra dianas específicas y CNN para predicción de sitios de unión a ligandos en proteínas
+a. ¿Por qué usar arquitecturas avanzadas?
+
+b. ¿Qué son las redes recurrentes (RNN)?
+
+c. ¿Qué son las redes convolucionales (CNN)?
+
+d. Aplicaciones en biomedicina: RNN para la creación de bibliotecas de moléculas candidatas contra dianas específicas y CNN para predicción de sitios de unión a ligandos en proteínas
 
 
 ### Sesión 03 – Introducción a programación de redes neurales convolucionales
 
-Práctica: Introducción a libretas de Google Colaboratory
-Práctica: Introducción al dataset
-Práctica: Preparación de los datos
-Práctica: Diseño y entrenamiento de la red neural
-Práctica: Interpretación de los resultados y validación del modelo
+a. Práctica: Introducción a libretas de Google Colaboratory
+
+b. Práctica: Introducción al dataset
+
+c. Práctica: Preparación de los datos
+
+d. Práctica: Diseño y entrenamiento de la red neural
+
+e. Práctica: Interpretación de los resultados y validación del modelo
