@@ -10,9 +10,9 @@ Las técnicas de aprendizaje profundo (deep learning) están adquiriendo crecien
 ## Contenidos del taller
 ### Sesión 01 – Fundamentos de aprendizaje profundo
 
-¿Qué es el aprendizaje atomático?
-¿Cómo funcionan las redes neurales?
-¿Qué problemas podemos encontrar al utilizarlas?
+a. ¿Qué es el aprendizaje atomático?
+b. ¿Cómo funcionan las redes neurales?
+c. ¿Qué problemas podemos encontrar al utilizarlas?
 
 
 ### Sesión 02 – Aplicación de arquitecturas avanzadas en biomedicina
