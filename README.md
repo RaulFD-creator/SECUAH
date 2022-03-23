@@ -1,7 +1,7 @@
 # Aplicaciones del aprendizaje profundo en biomedicina
 ## Raúl Fernández Díaz 
 
-En este repositorio se pueden encontrar los materiales del taller en aplicaciones de aprendizaje profundo en biomedicina dentro del VII Congreso SECUAH organizado por la Universidad de Alcalá de Henares se puede encontrar más información [aquí](https://pdsc.web.uah.es/acts/aprendizaje-profundo-en-biomedicina/).
+En este repositorio se pueden encontrar los materiales del taller en aplicaciones de aprendizaje profundo en biomedicina dentro del VII Congreso SECUAH organizado por la Universidad de Alcalá de Henares. Para más información, véase [esta página](https://pdsc.web.uah.es/acts/aprendizaje-profundo-en-biomedicina/).
 
 ## Resumen 
 
